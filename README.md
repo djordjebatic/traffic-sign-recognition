@@ -1,5 +1,13 @@
 # traffic-sign-detection
+
 One Paragraph of project description goes here
+
+TODO - finish template
+
+![blue filter](sample_images/image-34_blue_detect_result.jpg)
+![blue filter](sample_images/image-34_ablue_thresh.jpg)
+![blue filter](sample_images/image-34_red_detect_result.jpg)
+![blue filter](sample_images/image-34_ared_thresh.jpg)
 
 ## Getting Started
 
@@ -42,10 +50,6 @@ Explain what these tests test and why
 ```
 Give an example
 ```
-![blue filter](sample_images/image-34_blue_detect_result.jpg)
-![blue filter](sample_images/image-34_ablue_thresh.jpg)
-![blue filter](sample_images/image-34_red_detect_result.jpg)
-![blue filter](sample_images/image-34_ared_thresh.jpg)
 
 ### And coding style tests
 
@@ -61,9 +65,8 @@ Add additional notes about how to deploy this on a live system
 
 ## Authors
 
-* **Djordje Batic** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Djordje Batic**
 * main.py and evaluate.py classes were provided by aniversity and used to score the solutions. 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
