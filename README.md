@@ -1,4 +1,4 @@
-# traffic-sign-detection
+# traffic-sign-recognition
 
 One Paragraph of project description goes here
 
